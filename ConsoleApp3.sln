@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalssLibrary Test", "CalssLibrary Test.csproj", "{2EAA7C7A-7BB8-4CB5-A3CC-1F0F5D1B091D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My First Class Library", "..\My First Class Library\My First Class Library.csproj", "{057C700B-1CD7-4FB4-AF56-0A35F1470843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAA7C7A-7BB8-4CB5-A3CC-1F0F5D1B091D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAA7C7A-7BB8-4CB5-A3CC-1F0F5D1B091D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAA7C7A-7BB8-4CB5-A3CC-1F0F5D1B091D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAA7C7A-7BB8-4CB5-A3CC-1F0F5D1B091D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057C700B-1CD7-4FB4-AF56-0A35F1470843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057C700B-1CD7-4FB4-AF56-0A35F1470843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057C700B-1CD7-4FB4-AF56-0A35F1470843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057C700B-1CD7-4FB4-AF56-0A35F1470843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58F4A8C-97E8-449A-B267-F3E1A6642B58}
+	EndGlobalSection
+EndGlobal
